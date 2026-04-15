@@ -6,29 +6,6 @@ Repositorio que contiene los entregables del Sprint 3
 - Documento basado en: **deliverable-failure-conditions-v4.pdf (EV)**
 - Las tareas completadas se marcan con: ✅
 
-1. Crear repositorio para la entrega
-2. Presentación (todas las tareas de presentación se han cumplido)
-3. Despliegue (todas las tareas de despliegue se han cumplido)
-4. Documentos (todas las tareas de documentos se han cumplido)
-
-## Tareas Presentación
-
-1. Crear hilo conductor presentación.
-2. Crear esqueleto presentación.
-3. Crear demo de la aplicación para la presentación.
-4. Terminar presentación (incluyendo justificación explícita del feedback aplicado e incluyendo las cosas que quieren ver).
-5. Ensayar presentación.
-6. Presentar.
-
-## Tareas despliegue
-
-1. Comprobar que acciones legales con el sistema no resultan en un HTTP error percibido por el usuario.
-2. Comprobar que acciones legales con el sistema no resultan en un panic / crash percibido por el usuario.
-3. Comprobar que acciones legales con el sistema siempre resultan en el comportamiento esperado.
-4. Validar formularios: comprobar que los formularios validan campos vacíos que no deben ir vacíos o con información que debe ir en ciertos formatos.
-5. Comprobar que no se puede listar, editar o borrar datos de otro usuario (acciones de admin sólo).
-6. Realizar despliegue antes del deadline y dejarlo congelado.
-
 ## Tareas documentos
 
 *Nota: tener en cuenta que todo el contenido de la documentación del entregable debe estar incluida en el repositorio en formato markdown.*
@@ -53,7 +30,7 @@ Repositorio que contiene los entregables del Sprint 3
 	5. Datos necesarios para realizar la revisión (usuarios, contraseñas, inputs, etc.).
 	6. Requisitos para usar el sistema (p.e. acceso a ubicación).
 
-#### X-D-pilot-users.pdf (1-S3-pilot-users.pdf)
+#### X-D-pilot-users.pdf (1-S3-pilot-users.pdf) ✅
 
 1. Documento que incluya una lista de los usuarios piloto reales (nombre y apellidos y datos de contacto de cada uno, clasificados por tipo) sin incluir a los PUGs.
 
@@ -93,6 +70,6 @@ Repositorio que contiene los entregables del Sprint 3
 	2. Mostrar TODOS los casos de uso del documento 1-S3-software-review-guidelines.pdf.
 	3. Incluir en la descripción los minutos en los que se habla de cada caso de uso (capitulos en youtube).
 
-#### Documento uso de la IA
+#### Documento uso de la IA ✅
 
 1. Realizar un documento con el uso de la IA durante el entregable.
