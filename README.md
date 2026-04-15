@@ -34,7 +34,7 @@ Repositorio que contiene los entregables del Sprint 3
 
 1. Documento que incluya una lista de los usuarios piloto reales (nombre y apellidos y datos de contacto de cada uno, clasificados por tipo) sin incluir a los PUGs.
 
-#### X-D-dedication.xslx (1-S3-dedication.xslx)
+#### X-D-dedication.xslx (1-S3-dedication.xslx) ✅
 
 1. La dedicación al proyecto utilizando la plantilla de EV.
 
@@ -53,11 +53,11 @@ Repositorio que contiene los entregables del Sprint 3
 	2. Contenido específico que el equipo ha aportado
 	3. Acciones de mejora que se han llevado a cabo
 
-#### X-D-dedication.xslx (1-S3-dedication.xslx)
+#### X-D-dedication.xslx (1-S3-dedication.xslx) ✅
 
 1. La dedicación al proyecto utilizando la plantilla de EV (de nuevo).
 
-#### X-D-time-report.pdf (1-S3-time-report.pdf)
+#### X-D-time-report.pdf (1-S3-time-report.pdf) ✅
 
 1. Documento con el desglose de tiempo empleado por cada miembro del grupo quitando información privada como nombres y apellidos completos si es necesario.
 2. Link al archivo
