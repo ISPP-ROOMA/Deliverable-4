@@ -30,11 +30,11 @@ Repositorio que contiene los entregables del Sprint 3
 	5. Datos necesarios para realizar la revisión (usuarios, contraseñas, inputs, etc.).
 	6. Requisitos para usar el sistema (p.e. acceso a ubicación).
 
-#### X-D-pilot-users.pdf (1-S3-pilot-users.pdf) ✅
+#### X-D-pilot-users.pdf (1-S3-pilot-users.pdf) 
 
 1. Documento que incluya una lista de los usuarios piloto reales (nombre y apellidos y datos de contacto de cada uno, clasificados por tipo) sin incluir a los PUGs.
 
-#### X-D-dedication.xslx (1-S3-dedication.xslx) ✅
+#### X-D-dedication.xslx (1-S3-dedication.xslx) 
 
 1. La dedicación al proyecto utilizando la plantilla de EV.
 
