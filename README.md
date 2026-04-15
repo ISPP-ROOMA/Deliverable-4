@@ -40,7 +40,7 @@ Repositorio que contiene los entregables del Sprint 3
 
 ### Entregar en repositorio (commit antes del dealine)
 
-#### X-D-slides.pdf (1-S3-slides.pdf)
+#### X-D-slides.pdf (1-S3-slides.pdf) ✅
 
 1. Archivo pdf con la presentación.
 2. Link al archivo.
