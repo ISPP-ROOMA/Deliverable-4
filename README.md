@@ -20,7 +20,7 @@ Repositorio que contiene los entregables del Sprint 3
 	- Name and surname of the members of the team.
 	- Link to the publicly accessible repository where the content (described in T-8 below) of the deliverable is registered with an explicit commit that should be done before the deadline. There should be an explicit section with the name of the deliverable (“Devising a Project”, “Sprint 1”, “Sprint 2”, “Sprint 3”, “Preparing Project Launch” and “World Project Launch”) where the list of public contents of the deliverable is shown.
 
-#### X-D-software-review-guidelines.pdf (1-S3-software-review-guidelines.pdf)
+#### X-D-software-review-guidelines.pdf (1-S3-software-review-guidelines.pdf) ✅
 
 1. Crear documento con el nombre 1-S3-software-review-guidelines.pdf que incluya:
 	1. Link al despliegue final del sprint.
@@ -45,7 +45,7 @@ Repositorio que contiene los entregables del Sprint 3
 1. Archivo pdf con la presentación.
 2. Link al archivo.
 
-#### summary report of contributions to knowledge base
+#### summary report of contributions to knowledge base ✅
 
 1. Realizar contribuciones a la base de conocimiento
 2. Crear documento de contribuciones a la base de datos común que incluya
@@ -62,7 +62,7 @@ Repositorio que contiene los entregables del Sprint 3
 1. Documento con el desglose de tiempo empleado por cada miembro del grupo quitando información privada como nombres y apellidos completos si es necesario.
 2. Link al archivo
 
-#### Sección "Demos"
+#### Sección "Demos" ✅
 
 1. Link a la demo usada en la presentación subida en youtube.
 2. Link a una demo completa del software (max 10 minutos) subida en youtube que incluya:
